@@ -10,6 +10,7 @@ Desafios
 - Filtros e efeitos gradientes;
 - Pseudo-elemento;
 - Pseudo-classes;
-- Grid;- Flex-box;
+- Grid;
+- Flex-box;
 - Responsividade;
 - Requisições para APIs.
